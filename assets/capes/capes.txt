@@ -66,7 +66,6 @@ c9df3820-28bc-42c0-a700-0a7b1593ce69 emp
 ec0af6a4-b53f-4c9e-8778-620327bc164d spaceweed
 39deed5d-897f-45f2-a3c5-623df196a342 catcape
 b250e287-a229-48ee-a951-78bf2f39ce2c waveshift
-92e8839b-0852-4c0d-a0c7-6e848d8ea23e spaceweed
 a6d61b0c-157d-454e-abd2-adbe343a8329 bacon
 c6a926f6-f751-487e-ac54-44c0523567d5 weedcape
 8eeeb191-4562-4d04-86b3-dbc7b2230f80 nut
